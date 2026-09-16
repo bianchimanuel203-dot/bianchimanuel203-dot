@@ -1,6 +1,6 @@
 # Manuel Bianchi 👋
 
-IT Support Specialist y desarrollador  en Fuerteventura.
+
 Construyo apps web reales usando IA como herramienta principal de desarrollo.
 
 **Certificado:** Anthropic Claude API · Anthropic Claude Code · Google Cloud · PMI
