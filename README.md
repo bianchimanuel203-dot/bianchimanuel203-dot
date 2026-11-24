@@ -1,42 +1,24 @@
-# Manuel Bianchi 👋
+# Hi, I'm Manuel Bianchi 👋
 
+**Full Stack Developer** · Laravel/PHP · PostgreSQL · Next.js/React · Docker\
+Based in Fuerteventura (Canary Islands, Spain) · Open to remote roles worldwide (UTC+0)
 
-Construyo apps web reales usando IA como herramienta principal de desarrollo.
+I build production web apps with an AI-assisted workflow: Claude Code builds, Codex reviews, and every change goes through tests, code review and CI before it ships.
 
-**Certificado:** Anthropic Claude API · Anthropic Claude Code · Google Cloud · PMI
-
-📍 Fuerteventura, Islas Canarias
-🔗 [LinkedIn](https://linkedin.com/in/manuelbianchi-it)
-
----
-
-## 🚀 Proyectos
-
-**[FlyCanarias](https://github.com/bianchimanuel203-dot/flycanarias-app)** — App móvil de reserva de vuelos interislas · React + Vite + Supabase Auth · [Demo](https://flycanarias-app.vercel.app)
-
-**[3D Island](https://github.com/bianchimanuel203-dot/3DISLAND)** — Marketplace de impresión 3D · Next.js + TypeScript + Prisma + Stripe · [Demo](https://3-disland.vercel.app)
-
-**[Eborey](https://github.com/bianchimanuel203-dot/Ecommerceborey-web)** — E-commerce para frutería local · JavaScript + WooCommerce API
-
----
+## 🚀 Featured work
+- **Frutería Eborey** — live e-commerce for a local greengrocer · Vanilla JS + headless WooCommerce (Store API) · [eborey.com](https://eborey.com/app/)
+- **JARVIS** — my personal AI assistant · Python, Claude Code (headless), hybrid search (BM25 + embeddings), Telegram bot, wake-word voice, 670+ pytest tests, CI with Bandit & Semgrep · *private repo*
 
 ## 🛠️ Stack
+- **Backend:** Laravel · PHP · PostgreSQL · Node.js · Python · REST APIs
+- **Frontend:** Next.js · React · TypeScript · JavaScript · Tailwind CSS · Vite
+- **Tooling:** Docker · Git · GitHub Actions · Playwright · pytest · Linux
+- **AI:** Claude Code · Claude API · MCP · AI agents
 
-**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind · Vite
+## 📜 Certifications
+Anthropic (Claude Code in Action, Building with the Claude API) · Google Cloud · OpenAI · PMI
 
-**Backend:** Node.js · Prisma · Supabase · PostgreSQL · Stripe · NextAuth
+## 🌍 Languages
+Spanish & Italian (native) · English (professional working proficiency)
 
-
-**IA:** Claude Code · Claude API · MCP Servers · Prompt Engineering · AI Agents
-
----
-
-## 📜 Certificaciones
-
-🟣 Anthropic Claude API · 🟣 Anthropic Claude Code · 🔵 Google Cloud · 🟢 PMI
-
----
-
-## 🌍 Idiomas
-
-🇪🇸 Español nativo · 🇮🇹 Italiano nativo · 🇬🇧 Inglés profesional
+[LinkedIn](https://www.linkedin.com/in/manuelbianchi-it)
